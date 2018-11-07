@@ -9,6 +9,7 @@ Neural network to classification iris.
 ### Network architecture
 
 ![Network architecture](/iris_architecture.png)
+* [Image source](https://www.neuraldesigner.com/learning/examples/iris_flowers_classification)
 
 ## Requirements
 
