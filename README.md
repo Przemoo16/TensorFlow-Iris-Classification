@@ -1,6 +1,6 @@
 # Tensorflow Poker Hand Classification
 
-Neural network to classification irises in Tensorflow.
+Neural network for classifying irises in Tensorflow.
 
 ## Info about dataset
 
