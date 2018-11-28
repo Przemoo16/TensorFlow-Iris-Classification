@@ -1,4 +1,4 @@
-# Tensorflow Poker Hand Classification
+# Tensorflow Irises Classification
 
 Neural network for classifying irises in Tensorflow.
 
