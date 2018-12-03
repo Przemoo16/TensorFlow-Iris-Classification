@@ -1,6 +1,6 @@
 # Overview
 
-Neural network for classifying irises in Tensorflow. We train model on "Iris Data Set". Our neural network takes 4 features of the iris: sepal length, sepal width, petal length and petal width and tries to qualify if it is Setosa, Versicolor or Virginica.
+Neural network for classifying irises in Tensorflow. We train model on "Iris Data Set". Our neural network takes 4 features of the iris: sepal length, sepal width, petal length and petal width. Model tries to qualify if it is Setosa, Versicolor or Virginica.
 
 ## Info about dataset
 
